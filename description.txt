@@ -1,0 +1,5 @@
+
+1) index.js is the entry point for app.
+2) AppRegistry registers the App component which renders the view.
+3) Components folder contain view to render.
+4) utils folder contains NetworkUtilits for network operation.
